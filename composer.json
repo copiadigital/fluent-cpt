@@ -16,7 +16,7 @@
   ],
   "autoload": {
     "psr-4": {
-        "Copia\\FluentCpt": "src/"
+        "Copia\\FluentCpt\\": "src/"
     }
   },
   "keywords": [
