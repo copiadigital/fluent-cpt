@@ -1,0 +1,30 @@
+{
+  "name": "copiadigital/fluent-cpt",
+  "description": "Developer-friendly fluent interface for registering WordPress custom post types",
+  "homepage": "https://github.com/copiadigital/fluent-cpt",
+  "authors": [
+    {
+      "name": "Chris Willmott",
+      "email": "chris.willmott@copiadigital.com",
+      "homepage": "https://github.com/teaforchris"
+    },
+    {
+      "name": "Copia Digital Dev Team",
+      "email": "info@copiadigital.com",
+      "homepage": "https://github.com/copiadigital"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+        "Copia\\FluentCpt": "src/"
+    }
+  },
+  "keywords": [
+    "wordpress"
+  ],
+  "require": {
+    "php": "^7.1|^8.0"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
